@@ -69,6 +69,8 @@ The statistical test most appropriate for the study is a two-way ANOVA because:
 - the dependent variable is numerical and continuous, and the independent variables are categorical.
 
 Below are the null and alternative hypothesis:
+
 H0: The means of all groups are equal, or µ1 = µ2 = … = µn.
+
 HA: At least one of the means is different from all other groups.
 
