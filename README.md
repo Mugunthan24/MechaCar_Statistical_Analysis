@@ -30,23 +30,23 @@ When looking at the variance in the Total_Summary table, this is not alarminng b
 
 ## T-Tests on Suspension Coils,
 
-### All Manufacturing Lots Vs Population Mean
+### All Manufacturing Lots Vs. Population Mean
 
 ![image_name](https://github.com/Mugunthan24/MechaCar_Statistical_Analysis/blob/main/Images/ManufacturingLots_vs_MeanPSI.png)
 
 The PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch since the p-value is above the significance level of 0.05.
 
-### Lot1 Vs Population Mean
+### Lot1 Vs. Population Mean
 ![image_name](https://github.com/Mugunthan24/MechaCar_Statistical_Analysis/blob/main/Images/Lot1_vs_MeanPSI.png)
 
 The PSI for the Lot1 manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch since the p-value is above the significance level of 0.05.
 
-### Lot2 Vs Population Mean
+### Lot2 Vs. Population Mean
 ![image_name](https://github.com/Mugunthan24/MechaCar_Statistical_Analysis/blob/main/Images/Lot2_vs_MeanPSI.png)
 
 The PSI for the Lot2 manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch since the p-value is above the significance level of 0.05.
 
-### Lot3 Vs Population Mean
+### Lot3 Vs. Population Mean
 ![image_name](https://github.com/Mugunthan24/MechaCar_Statistical_Analysis/blob/main/Images/Lot3_vs_MeanPSI.png)
 
 The PSI for the Lot3 manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch since the p-value is below the significance level of 0.05.
