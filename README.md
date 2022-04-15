@@ -28,7 +28,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 When looking at the variance in the Total_Summary table, this is not alarminng because the variance is 62.3. However, if we dig further and look at the breakdown per parking lot in the Lot_Summary table, then it is clear that the variance in Lot3 has exceeded maximum permitted variance by nearly 70% (170.3). Lot3 does not meet the design specification.
 
 
-## T-Tests on Suspension Coils,
+## T-Tests on Suspension Coils
 
 ### All Manufacturing Lots Vs. Population Mean
 
